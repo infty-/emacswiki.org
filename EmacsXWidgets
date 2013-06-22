@@ -71,6 +71,7 @@ Current issues:
 * theres a problem with clipping on emacs-window borders(topmost. left and bottom seems ok now
 * xwidgets are not garbed currently, they are just hidden.
 * theres just a fixed array of xwidgets, not a proper list
+* because of depending on X, you won't be able to use XWidgets when running Emacs on the terminal. [is that correct?]
 
 These issues appear difficult but not unsolveable.
 
